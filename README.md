@@ -53,7 +53,7 @@ The heatmaps visually confirm that the attention mechanisms function as designed
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/efficient-attention-benchmark.git](https://github.com/YOUR_USERNAME/efficient-attention-benchmark.git)
+    git clone [https://github.com/anubhuti710/efficient-attention-benchmark.git](https://github.com/anubhuti710/efficient-attention-benchmark.git)
     ```
 2.  Install requirements:
     ```bash
